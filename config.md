@@ -11,3 +11,5 @@
 - iterm 2
 - nvm
 - git
+- visual studio code
+- firaCode
