@@ -1,3 +1,5 @@
+## Plugins
+
 - Beautify
 - Debugger for chrome
 - SCSS Intellisense
