@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 18,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "workbench.startupEditor": "newUntitledFile"
+}
