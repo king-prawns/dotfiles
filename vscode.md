@@ -1,6 +1,7 @@
 ## Plugins
 
 - Beautify
+- Path Intellisense
 - Debugger for chrome
 - SCSS Intellisense
 - ESLint
