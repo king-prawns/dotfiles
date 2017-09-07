@@ -8,8 +8,7 @@
 - HTML Snippets
 - Material Theme
 - Path Intellisense
-- Prettier - JavaScript formatter
-- Quokka.js
+- Prettier - JavaScript Formatter
 - SCSS Intellisense
 - TSLint *
 - vscode-iscons
