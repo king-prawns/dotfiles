@@ -8,9 +8,26 @@
     },
     "workbench.iconTheme": "vscode-icons",
     "editor.renderWhitespace": "all",
-    "editor.fontFamily": "'Fira Code'",
+    "editor.fontFamily": "'Fira Code', Consolas",
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
     "eslint.autoFixOnSave": true,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#FFA000",
+        "list.activeSelectionForeground": "#FFA000",
+        "list.inactiveSelectionForeground": "#FFA000",
+        "list.highlightForeground": "#FFA000",
+        "scrollbarSlider.activeBackground": "#FFA00050",
+        "editorSuggestWidget.highlightForeground": "#FFA000",
+        "textLink.foreground": "#FFA000",
+        "progressBar.background": "#FFA000",
+        "pickerGroup.foreground": "#FFA000"
+    },
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Palenight",
+        "accentPrevious": "Cyan",
+        "accent": "Yellow"
+    },
+    "workbench.colorTheme": "Material Theme"
 }
