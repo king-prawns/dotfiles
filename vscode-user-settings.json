@@ -1,33 +1,35 @@
 {
-    "window.zoomLevel": 0,
-    "editor.fontSize": 18,
-    "vsicons.dontShowNewVersionMessage": true,
-    "vsicons.projectDetection.autoReload": true,
-    "files.associations": {
-        "*.vue": "vue"
-    },
-    "workbench.iconTheme": "vscode-icons",
-    "editor.renderWhitespace": "all",
-    "editor.fontFamily": "'Fira Code', Consolas",
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-    "eslint.autoFixOnSave": true,
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorCustomizations": {
-        "activityBarBadge.background": "#FFA000",
-        "list.activeSelectionForeground": "#FFA000",
-        "list.inactiveSelectionForeground": "#FFA000",
-        "list.highlightForeground": "#FFA000",
-        "scrollbarSlider.activeBackground": "#FFA00050",
-        "editorSuggestWidget.highlightForeground": "#FFA000",
-        "textLink.foreground": "#FFA000",
-        "progressBar.background": "#FFA000",
-        "pickerGroup.foreground": "#FFA000"
-    },
-    "materialTheme.cache.workbench.settings": {
-        "themeColours": "Palenight",
-        "accentPrevious": "Cyan",
-        "accent": "Yellow"
-    },
-    "workbench.colorTheme": "Material Theme"
+  "window.zoomLevel": 0,
+  "editor.fontSize": 18,
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsicons.projectDetection.autoReload": true,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.renderWhitespace": "all",
+  "editor.fontFamily": "'Fira Code', Consolas",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#FFA000",
+    "list.activeSelectionForeground": "#FFA000",
+    "list.inactiveSelectionForeground": "#FFA000",
+    "list.highlightForeground": "#FFA000",
+    "scrollbarSlider.activeBackground": "#FFA00050",
+    "editorSuggestWidget.highlightForeground": "#FFA000",
+    "textLink.foreground": "#FFA000",
+    "progressBar.background": "#FFA000",
+    "pickerGroup.foreground": "#FFA000"
+  },
+  "materialTheme.cache.workbench.settings": {
+    "themeColours": "Palenight",
+    "accentPrevious": "Cyan",
+    "accent": "Yellow"
+  },
+  "workbench.colorTheme": "Material Theme",
+  "prettier.singleQuote": true
 }
