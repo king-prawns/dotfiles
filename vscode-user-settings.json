@@ -31,5 +31,6 @@
     "accent": "Yellow"
   },
   "workbench.colorTheme": "Material Theme",
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "prettier.cssEnable": []
 }
