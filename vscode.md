@@ -7,6 +7,5 @@
 - Material Theme
 - Path Intellisense
 - Prettier - JavaScript Formatter
-- SCSS Intellisense
 - TSLint *
 - vscode-iscons
