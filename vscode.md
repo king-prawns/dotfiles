@@ -1,6 +1,5 @@
 ## Plugins
 
-- Auto Close Tag
 - EditorConfig for VS Code
 - ESLint
 - Flow Language Support *
