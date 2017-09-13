@@ -1,5 +1,7 @@
 ## Plugins
 
+- Cucumber Full Language Support *
+- Cucumber (Gherkin) Syntax and Snippets *
 - EditorConfig for VS Code
 - ESLint
 - Flow Language Support *
