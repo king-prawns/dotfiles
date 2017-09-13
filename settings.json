@@ -1,0 +1,7 @@
+// .vscode
+{
+  "cucumberautocomplete.steps": [
+  // Path alle step_definitions
+      "test/e2e/step_definitions/**/*.js"
+  ]
+}
