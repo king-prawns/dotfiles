@@ -6,6 +6,7 @@
 - ESLint
 - Flow Language Support *
 - Git Lens - git blame annotation
+- Npm Intellisense
 - Material Theme
 - Path Intellisense
 - Prettier - JavaScript Formatter
