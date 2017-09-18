@@ -1,14 +1,13 @@
 ## Plugins
 
-- Cucumber Full Language Support *
-- Cucumber (Gherkin) Syntax and Snippets *
-- EditorConfig for VS Code
-- ESLint
-- Flow Language Support *
-- Git Lens - git blame annotation
-- Npm Intellisense
-- Material Theme
-- Path Intellisense
-- Prettier - JavaScript Formatter
-- TSLint *
-- vscode-iscons
+- EditorConfig for VS Code *by EditorConfig*
+- ESLint *by Dirk Baeumer*
+- Flow Language Support* *by flowtype*
+- Git Lens - git blame annotation *by Eric Amodio*
+- Npm Intellisense *by Christian Kohler*
+- Material Theme *by Mattia Astorino*
+- Path Intellisense *by Christian Kohler*
+- Prettier-JavaScript Formatter *by Esben Petersen*
+- Stylelint *by Shinnosuke Watanabe*
+- TSLint* *by egamma*
+- vscode-iscons *by Roberto Huertas*
