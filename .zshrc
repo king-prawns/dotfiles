@@ -22,10 +22,14 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
-
+alias cl="clear"
 alias gti="git"
-alias s="git status -s"
+alias s="git status"
+alias ss="git status -s"
 alias co="git checkout"
+alias com="git commit -m"
+alias log="git log --oneline"
+alias amen="git commit --amend --no-edit"
 
 export NVM_SYMLINK_CURRENT=true
 export NVM_DIR="$HOME/.nvm"
