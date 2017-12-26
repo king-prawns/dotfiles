@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 0,
-  "editor.fontSize": 18,
+  "editor.fontSize": 14,
   "vsicons.dontShowNewVersionMessage": true,
   "vsicons.projectDetection.autoReload": true,
   "files.associations": {
