@@ -6,7 +6,7 @@
 - brew install zsh
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - create ~/.zshrc
-- iterm 2
+- [iterm 2](https://www.iterm2.com/)
 - nvm
 - git
 - VS Code
