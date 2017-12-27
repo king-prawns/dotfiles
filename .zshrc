@@ -1,6 +1,6 @@
 source "$HOME/.antigen/antigen.zsh"
 
-antigen-use oh-my-zsh
+antigen use oh-my-zsh
 antigen bundle git
 antigen bundle node
 antigen bundle sudo
