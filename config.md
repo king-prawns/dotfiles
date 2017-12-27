@@ -12,3 +12,4 @@
 - [git](https://git-scm.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [FiraCode](https://github.com/tonsky/FiraCode)
+- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
