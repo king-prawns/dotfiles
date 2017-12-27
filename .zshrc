@@ -1,4 +1,4 @@
-source "$HOME/antigen.zsh"
+source "$HOME/.antigen/antigen.zsh"
 
 antigen-use oh-my-zsh
 antigen-bundle git
