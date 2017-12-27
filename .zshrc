@@ -1,3 +1,4 @@
+export DEFAULT_USER=`id -un`
 source "$HOME/.antigen/antigen.zsh"
 
 antigen use oh-my-zsh
@@ -8,14 +9,13 @@ antigen bundle mafredri/zsh-async
 antigen bundle sindresorhus/pure
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle zsh-users/zsh-history-substring-search
+antigen theme agnoster
 
 antigen apply
 
 zmodload zsh/terminfo
 bindkey "$terminfo[kcuu1]" history-substring-search-up
 bindkey "$terminfo[kcud1]" history-substring-search-down
-
-#unsetopt correct_all
 
 alias ..="cd .."
 alias ...="cd ../.."
