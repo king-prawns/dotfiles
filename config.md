@@ -3,6 +3,7 @@
 - [homebrew](https://brew.sh/index_it.html)
 - [node](https://nodejs.org/it/)
 - create ~/.bashrc
+- create ~/.bash_profile
 - brew install zsh
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - create ~/.zshrc
