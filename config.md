@@ -8,9 +8,11 @@
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - create ~/.zshrc
 - Making zsh default shell
+```
 chsh -s $(which zsh)
 sudo vi /etc/shells > change zsh path
 restart terminal
+```
 - [iterm 2](https://www.iterm2.com/)
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
