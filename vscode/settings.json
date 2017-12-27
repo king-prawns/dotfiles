@@ -26,11 +26,10 @@
     "pickerGroup.foreground": "#FFA000"
   },
   "materialTheme.cache.workbench.settings": {
-    "themeColours": "Palenight",
+    "themeColours": "Default High Contrast",
     "accentPrevious": "Cyan",
     "accent": "Yellow"
   },
   "workbench.colorTheme": "Material Theme",
   "prettier.singleQuote": true,
-  "prettier.cssEnable": []
 }
