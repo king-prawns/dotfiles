@@ -1,6 +1,0 @@
-// Path alle step_definitions
-{
-  "cucumberautocomplete.steps": [
-      "test/e2e/step_definitions/**/*.js"
-  ]
-}
