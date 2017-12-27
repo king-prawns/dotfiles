@@ -1,15 +1,15 @@
 source "$HOME/.antigen/antigen.zsh"
 
 antigen-use oh-my-zsh
-antigen-bundle git
-antigen-bundle node
-antigen-bundle sudo
+antigen bundle git
+antigen bundle node
+antigen bundle sudo
 antigen bundle mafredri/zsh-async
 antigen bundle sindresorhus/pure
-antigen-bundle zsh-users/zsh-syntax-highlighting
-antigen-bundle zsh-users/zsh-history-substring-search
+antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-history-substring-search
 
-antigen-apply
+antigen apply
 
 zmodload zsh/terminfo
 bindkey "$terminfo[kcuu1]" history-substring-search-up
