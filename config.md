@@ -2,6 +2,9 @@
 
 - [homebrew](https://brew.sh/index_it.html)
 - [node](https://nodejs.org/it/)
+```
+sudo chown myusername /usr/local/lib/node_modules
+```
 - create ~/.bashrc
 - create ~/.bash_profile
 - brew install zsh
