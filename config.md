@@ -8,7 +8,7 @@
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - create ~/.zshrc
 - [iterm 2](https://www.iterm2.com/)
-- nvm
-- git
-- VS Code
-- firaCode
+- [nvm](https://github.com/creationix/nvm)
+- [git](https://git-scm.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [FiraCode](https://github.com/tonsky/FiraCode)
