@@ -2,11 +2,9 @@
 
 - home brew
 - node
-- bashrc
-- zsh
-
+- create .bashrc
 - brew install zsh
-- antigen package manager
+- [antigen package manager](https://github.com/zsh-users/antigen)
 - vim ~/.zshrc -> touch ~/.zshrc -> copy&paste config
 - iterm 2
 - nvm
