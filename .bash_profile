@@ -1,3 +1,4 @@
 source ~/.bashrc
-echo 'export SHELL=$(which zsh)'
-echo 'exec $(which zsh) -l'
+cd MyDefaultFolder
+export SHELL=$(which zsh)
+exec $(which zsh) -l
