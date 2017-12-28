@@ -9,6 +9,7 @@ sudo chown myusername /usr/local/lib/node_modules
 - create ~/.bash_profile
 - brew install zsh
 - [antigen package manager](https://github.com/zsh-users/antigen)
+- [iterm 2](https://www.iterm2.com/)
 - create ~/.zshrc
 - Making zsh default shell
 ```
@@ -16,7 +17,7 @@ chsh -s $(which zsh)
 sudo vi /etc/shells > change zsh path
 restart terminal
 ```
-- [iterm 2](https://www.iterm2.com/)
+- create ~/.hushlogin
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
 - [VS Code](https://code.visualstudio.com/)
