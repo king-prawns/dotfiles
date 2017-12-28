@@ -8,6 +8,7 @@ sudo chown myusername /usr/local/lib/node_modules
 - create ~/.bashrc
 - create ~/.bash_profile
 - brew install zsh
+- brew install fortune
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
 - create ~/.zshrc
