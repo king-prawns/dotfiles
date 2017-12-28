@@ -14,7 +14,9 @@ sudo chown myusername /usr/local/lib/node_modules
 - Making zsh default shell
 ```
 chsh -s $(which zsh)
-sudo vi /etc/shells > change zsh path
+sudo vi /etc/shells
+
+change zsh path
 restart terminal
 ```
 - create ~/.hushlogin
