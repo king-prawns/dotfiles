@@ -11,4 +11,5 @@
 - Prettier-JavaScript Formatter *by Esben Petersen*
 - Stylelint *by Shinnosuke Watanabe*
 - TSLint* *by egamma*
+- Vetur* *by Pine Wu*
 - vscode-iscons *by Roberto Huertas*
