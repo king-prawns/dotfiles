@@ -8,7 +8,7 @@
 - Npm Intellisense *by Christian Kohler*
 - Material Theme *by Mattia Astorino*
 - Path Intellisense *by Christian Kohler*
-- Prettier-JavaScript Formatter *by Esben Petersen*
+- Prettier- Code formatter *by Esben Petersen*
 - Stylelint *by Shinnosuke Watanabe*
 - TSLint* *by egamma*
 - Vetur* *by Pine Wu*
