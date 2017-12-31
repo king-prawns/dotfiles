@@ -12,6 +12,10 @@
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
     "activityBarBadge.background": "#FFA000",
