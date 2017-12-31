@@ -12,7 +12,6 @@
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "eslint.autoFixOnSave": true,
-  "editor.formatOnSave": true,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
     "activityBarBadge.background": "#FFA000",
