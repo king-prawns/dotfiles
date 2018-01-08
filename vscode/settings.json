@@ -21,6 +21,7 @@
     "activityBarBadge.background": "#FFA000",
     "list.activeSelectionForeground": "#FFA000",
     "list.inactiveSelectionForeground": "#FFA000",
+    "list.inactiveSelectionBackground": "#FFFFFF10",
     "list.highlightForeground": "#FFA000",
     "scrollbarSlider.activeBackground": "#FFA00050",
     "editorSuggestWidget.highlightForeground": "#FFA000",
