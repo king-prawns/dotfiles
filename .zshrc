@@ -27,9 +27,10 @@ alias gti="git"
 alias s="git status"
 alias ss="git status -s"
 alias co="git checkout"
-alias com="git commit -m"
+alias ci="git commit -m"
 alias log="git log --oneline"
 alias amen="git commit --amend --no-edit"
+alias unstage="git reset HEAD --"
 
 export NVM_SYMLINK_CURRENT=true
 export NVM_DIR="$HOME/.nvm"
