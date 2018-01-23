@@ -1,21 +1,16 @@
 {
   "window.zoomLevel": 0,
   "editor.fontSize": 14,
-  "vsicons.dontShowNewVersionMessage": true,
-  "vsicons.projectDetection.autoReload": true,
   "files.associations": {
     "*.vue": "vue"
   },
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "eq-material-theme-icons",
   "editor.renderWhitespace": "all",
   "editor.fontFamily": "'Fira Code', Consolas",
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "eslint.autoFixOnSave": true,
   "editor.formatOnSave": true,
-  "[javascript]": {
-    "editor.formatOnSave": false
-  },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
     "activityBarBadge.background": "#FFA000",
@@ -35,5 +30,8 @@
     "accent": "Yellow"
   },
   "workbench.colorTheme": "Material Theme",
-  "prettier.singleQuote": true,
+  "javascript.validate.enable": false,
+  "typescript.autoImportSuggestions.enabled": false,
+  "flow.runOnEdit": false,
+  "flow.useNPMPackagedFlow": true
 }
