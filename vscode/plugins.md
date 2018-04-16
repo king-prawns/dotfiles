@@ -8,5 +8,4 @@
 - Material Theme *by Mattia Astorino*
 - Path Intellisense *by Christian Kohler*
 - Stylelint *by Shinnosuke Watanabe*
-- TODO Highlight *by Wayou Liu*
 - TSLint* *by egamma*
