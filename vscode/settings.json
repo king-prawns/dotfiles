@@ -10,28 +10,44 @@
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "eslint.autoFixOnSave": true,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
-    "activityBarBadge.background": "#FFA000",
-    "list.activeSelectionForeground": "#FFA000",
-    "list.inactiveSelectionForeground": "#FFA000",
+    "activityBarBadge.background": "#FF4081",
+    "list.activeSelectionForeground": "#FF4081",
+    "list.inactiveSelectionForeground": "#FF4081",
     "list.inactiveSelectionBackground": "#FFFFFF10",
-    "list.highlightForeground": "#FFA000",
-    "scrollbarSlider.activeBackground": "#FFA00050",
-    "editorSuggestWidget.highlightForeground": "#FFA000",
-    "textLink.foreground": "#FFA000",
-    "progressBar.background": "#FFA000",
-    "pickerGroup.foreground": "#FFA000"
+    "list.highlightForeground": "#FF4081",
+    "scrollbarSlider.activeBackground": "#FF408150",
+    "editorSuggestWidget.highlightForeground": "#FF4081",
+    "textLink.foreground": "#FF4081",
+    "progressBar.background": "#FF4081",
+    "pickerGroup.foreground": "#FF4081",
+    "tab.activeBorder": "#FF4081",
+    "notificationLink.foreground": "#FF4081"
   },
   "materialTheme.cache.workbench.settings": {
     "themeColours": "Default High Contrast",
-    "accentPrevious": "Cyan",
-    "accent": "Yellow"
+    "accentPrevious": "Yellow",
+    "accent": "Pink"
   },
-  "workbench.colorTheme": "Material Theme",
   "javascript.validate.enable": false,
   "typescript.autoImportSuggestions.enabled": false,
   "flow.runOnEdit": false,
-  "flow.useNPMPackagedFlow": true
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "[javascript]": {},
+  "workbench.colorTheme": "Material Theme High Contrast",
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": true,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "tslint.autoFixOnSave": true
 }
