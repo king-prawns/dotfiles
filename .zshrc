@@ -1,4 +1,4 @@
-export DEFAULT_USER=`id -un`
+export DEFAULT_USER=`logname`
 
 source "$HOME/.antigen/antigen.zsh"
 
