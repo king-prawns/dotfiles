@@ -8,13 +8,13 @@
 - [iterm 2](https://www.iterm2.com/)
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line)
 - create ~/.zshrc
+- create ~/.hushlogin
 - Making zsh default shell
 ```
 sudo echo "$(which zsh)" >> /etc/shells
 chsh -s $(which zsh)
 ```
 - restart terminal
-- create ~/.hushlogin
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
 - [VS Code](https://code.visualstudio.com/)
