@@ -2,11 +2,6 @@
 
 - [homebrew](https://brew.sh/index_it.html)
 - [node](https://nodejs.org/it/)
-```
-sudo chown myusername /usr/local/lib/node_modules
-```
-- create ~/.bashrc
-- create ~/.bash_profile
 - brew install zsh
 - brew install fortune
 - [antigen package manager](https://github.com/zsh-users/antigen)
@@ -17,9 +12,8 @@ sudo chown myusername /usr/local/lib/node_modules
 ```
 sudo echo "$(which zsh)" >> /etc/shells
 chsh -s $(which zsh)
-
-restart terminal
 ```
+- restart terminal
 - create ~/.hushlogin
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
