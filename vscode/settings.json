@@ -14,6 +14,7 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorCustomizations": {
     "activityBarBadge.background": "#FF4081",
+    "editorIndentGuide.activeBackground": "#FF4081",
     "list.activeSelectionForeground": "#FF4081",
     "list.inactiveSelectionForeground": "#FF4081",
     "list.inactiveSelectionBackground": "#FFFFFF10",
