@@ -1,5 +1,6 @@
 ## Plugins
 
+- Auto Close Tag *by Jun Han*
 - Debugger for Chrome *by Microsoft*
 - EditorConfig for VS Code *by EditorConfig*
 - ESLint *by Dirk Baeumer*
