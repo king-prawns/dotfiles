@@ -50,5 +50,6 @@
     "suppressResultsExplorerNotice": false,
     "suppressShowKeyBindingsNotice": true
   },
-  "tslint.autoFixOnSave": true
+  "tslint.autoFixOnSave": true,
+  "workbench.sideBar.location": "right"
 }
