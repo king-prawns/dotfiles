@@ -47,7 +47,8 @@
         },
         {
           "scope": [
-            "storage.type.function.arrow"
+            "storage.type.function.arrow",
+            "entity.other.attribute-name.class"
           ],
           "settings": {
             "fontStyle": ""
