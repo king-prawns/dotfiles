@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 0,
-  "editor.fontSize": 14,
+  "editor.fontSize": 17,
   "files.associations": {
     "*.vue": "vue"
   },
@@ -36,9 +36,9 @@
           "scope": [
             "comment",
             "comment.block",
-            "comment.block.documentation",
             "comment.line",
             "storage.type",
+            "storage.modifier",
             "entity.other.attribute-name",
           ],
           "settings": {
@@ -47,6 +47,7 @@
         },
         {
           "scope": [
+            "comment.block.documentation",
             "storage.type.function.arrow",
             "storage.type.generic",
             "entity.other.attribute-name.class"
