@@ -35,6 +35,15 @@
         {
           "scope": [
             "comment",
+            "punctuation.definition.comment"
+          ],
+          "settings": {
+            "foreground": "#EEFFFF90"
+          }
+        },
+        {
+          "scope": [
+            "comment",
             "comment.block",
             "comment.line",
             "storage.type",
