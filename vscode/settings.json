@@ -4,6 +4,7 @@
   "files.associations": {
     "*.vue": "vue"
   },
+  "breadcrumbs.enabled": true,
   "workbench.iconTheme": "eq-material-theme-icons",
   "editor.renderWhitespace": "all",
   "editor.fontFamily": "'Fira Code iScript', Consolas",
