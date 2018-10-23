@@ -89,5 +89,5 @@
   },
   "tslint.autoFixOnSave": true,
   "workbench.sideBar.location": "right",
-  "materialTheme.fixIconsRunning": false
+  "workbench.settings.editor": "json"
 }
