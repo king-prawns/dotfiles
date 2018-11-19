@@ -23,4 +23,5 @@ chsh -s $(which zsh)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 - [Font: Menslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf)
+- set Menslo Font and theme in Iterm 
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
