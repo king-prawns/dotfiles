@@ -10,6 +10,7 @@
 - set shortcuts [1](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) [2](https://coderwall.com/p/ds2dha/word-line-deletion-and-navigation-shortcuts-in-iterm2)
 - create ~/.zshrc
 - create ~/.hushlogin
+- create ~/.vimrc
 - Making zsh default shell
 ```
 sudo echo "$(which zsh)" >> /etc/shells
