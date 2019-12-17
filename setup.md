@@ -26,5 +26,5 @@ chsh -s $(which zsh)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 - [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf)
 - set Menslo Font and theme in Iterm preferences
-- [vim-airline](https://github.com/vim-airline/vim-airline) manual installation and run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
+- [vim-airline](https://github.com/vim-airline/vim-airline) manual installation then run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
