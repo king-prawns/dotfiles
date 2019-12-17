@@ -24,7 +24,7 @@ chsh -s $(which zsh)
 - [VSCode from command line](https://stackoverflow.com/questions/44269510/how-to-run-visual-studio-code-from-the-command-line)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
-- [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) then set Menslo Font and theme in Iterm preferences
+- [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) then set Menslo Font (and theme) in Iterm preferences
 - [vim-airline](https://github.com/vim-airline/vim-airline) manual installation then run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
 - [vim-javascript](https://github.com/pangloss/vim-javascript) and [vim-typescript](https://github.com/leafgarland/typescript-vim)
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
