@@ -24,6 +24,6 @@ chsh -s $(which zsh)
 - [VSCode from command line](https://stackoverflow.com/questions/44269510/how-to-run-visual-studio-code-from-the-command-line)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
-- [Font: Menslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf)
+- [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf)
 - set Menslo Font and theme in Iterm preferences
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
