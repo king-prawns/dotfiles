@@ -27,5 +27,5 @@ chsh -s $(which zsh)
 - [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) then set Menslo Font (and theme) in Iterm preferences
 - [vim-airline](https://github.com/vim-airline/vim-airline) manual installation then run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
 - [vim-javascript](https://github.com/pangloss/vim-javascript) and [vim-typescript](https://github.com/leafgarland/typescript-vim)
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+- [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
