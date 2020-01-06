@@ -89,5 +89,8 @@
   },
   "tslint.autoFixOnSave": true,
   "workbench.sideBar.location": "right",
-  "workbench.settings.editor": "json"
+  "workbench.settings.editor": "json",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
