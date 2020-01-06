@@ -28,3 +28,4 @@ chsh -s $(which zsh)
 - [vim-airline](https://github.com/vim-airline/vim-airline) manual installation then run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
 - [vim-javascript](https://github.com/pangloss/vim-javascript) and [vim-typescript](https://github.com/leafgarland/typescript-vim)
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli)
