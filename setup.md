@@ -17,7 +17,7 @@ sudo echo "$(which zsh)" >> /etc/shells
 chsh -s $(which zsh)
 ```
 - restart terminal
-- [spectacle](https://www.spectacleapp.com/)
+- [spectacle](https://www.spectacleapp.com/) and disable it for iterm2
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
 - [VSCode](https://code.visualstudio.com/)
