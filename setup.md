@@ -5,6 +5,7 @@
 - brew install zsh
 - brew install fortune
 - brew install cloc
+- brew install watchman
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line)
