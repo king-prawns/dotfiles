@@ -87,10 +87,10 @@
     "suppressResultsExplorerNotice": false,
     "suppressShowKeyBindingsNotice": true
   },
-  "tslint.autoFixOnSave": true,
   "workbench.sideBar.location": "right",
   "workbench.settings.editor": "json",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true
   }
 }
