@@ -12,7 +12,9 @@
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line)
 - create ~/.zshrc
 - create ~/.hushlogin
+- create ~/.tmux.conf
 - create ~/.vimrc
+- clone all vim plugins inside ~/.vim/bundle folder
 - Making zsh default shell
 ```
 sudo echo "$(which zsh)" >> /etc/shells
@@ -27,8 +29,6 @@ chsh -s $(which zsh)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 - [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) then set Menslo Font (and theme) in Iterm preferences
-- [vim-airline](https://github.com/vim-airline/vim-airline) manual installation then run `:helptags ~/.vim/pack/dist/start/vim-airline/doc`
-- [vim-javascript](https://github.com/pangloss/vim-javascript) and [vim-typescript](https://github.com/leafgarland/typescript-vim)
 - [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [trailer](http://ptsochantaris.github.io/trailer/)
