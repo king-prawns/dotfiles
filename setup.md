@@ -6,6 +6,7 @@
 - brew install fortune
 - brew install cloc
 - brew install watchman
+- brew install tmux
 - brew install vim
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
