@@ -24,7 +24,7 @@
 	url = git@github.com:tpope/vim-surround.git
 [submodule ".vim/bundle/nerdtree"]
 	path = .vim/bundle/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
+	url = git@github.com:preservim/nerdtree.git
 [submodule ".vim/bundle/ale"]
 	path = .vim/bundle/ale
 	url = git@github.com:w0rp/ale.git
