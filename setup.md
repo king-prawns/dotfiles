@@ -28,6 +28,7 @@ sudo echo "$(which zsh)" >> /etc/shells
 chsh -s $(which zsh)
 ```
 - restart terminal
+- [typescript-language-server](https://github.com/theia-ide/typescript-language-server)
 - [spectacle](https://www.spectacleapp.com/) and disable it for iterm2
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
