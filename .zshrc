@@ -1,4 +1,4 @@
-export DEFAULT_USER=`logname`
+export DEFAULT_USER="$(whoami)"
 export PATH=/usr/local/bin:$PATH
 
 source "$HOME/antigen.zsh"
