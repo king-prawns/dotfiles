@@ -37,6 +37,7 @@
         "titleBar.activeBackground": "#FFFFFF10",
       }
     },
+    "terminal.integrated.fontSize": 14,
     "editor.tokenColorCustomizations": {
       "[Default Dark+]": {
         "textMateRules": [
