@@ -32,7 +32,7 @@
         "activityBar.background": "#FFFFFF10",
         "activityBar.foreground": "#ffffff",
         "activityBar.inactiveForeground": "#ffffff",
-        "activityBarBadge.foreground": "#ff0000",
+        "activityBarBadge.foreground": "#ffffff",
         "statusBar.background": "#FFFFFF10",
         "titleBar.activeBackground": "#FFFFFF10",
       }
