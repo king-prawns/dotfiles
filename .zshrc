@@ -1,5 +1,4 @@
 export DEFAULT_USER="$(whoami)"
-export PATH=/usr/local/bin:$PATH
 
 source "$HOME/antigen.zsh"
 
@@ -38,3 +37,5 @@ export NVM_SYMLINK_CURRENT=true
 export NVM_DIR="$HOME/.nvm"
 export PATH=$PATH:$NVM_DIR/current/bin:/usr/local/bin
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
