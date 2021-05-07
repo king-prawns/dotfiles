@@ -33,7 +33,7 @@ chsh -s $(which zsh)
 - [spectacle](https://www.spectacleapp.com/) and disable it for iterm2
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
-- [VSCode](https://code.visualstudio.com/) and set `redo` key
+- [VSCode](https://code.visualstudio.com/) and set `redo` key (cmd+y)
 - [VSCode from command line](https://stackoverflow.com/questions/44269510/how-to-run-visual-studio-code-from-the-command-line)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
