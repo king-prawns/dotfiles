@@ -38,6 +38,7 @@ chsh -s $(which zsh)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 - set FiraCode in Iterm preferences
+- [disable alert sound Iterm](http://codingshower.com/how-to-disable-mac-os-annoying-beep-alert-bell-sound-in-terminal-and-iterm2/)
 - [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [trailer](http://ptsochantaris.github.io/trailer/)
