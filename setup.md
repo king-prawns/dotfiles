@@ -6,18 +6,14 @@
 - brew install fortune
 - brew install cloc
 - brew install watchman
-- brew install tmux
 - brew install vim
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
-- clone this repo then symlink the .files to ~/
+- copy the following files to ~/
   - .vim
   - .zshrc
   - .hushlogin
-  - .tmux.conf
-  - .vimrc
-  - .gitmodules
 ```
 git submodule init
 git submodule update --init --recursive
