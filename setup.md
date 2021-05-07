@@ -37,7 +37,7 @@ chsh -s $(which zsh)
 - [VSCode from command line](https://stackoverflow.com/questions/44269510/how-to-run-visual-studio-code-from-the-command-line)
 - [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
-- [Font: Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) then set Menslo Font (and theme) in Iterm preferences
+- set FiraCode in Iterm preferences
 - [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [trailer](http://ptsochantaris.github.io/trailer/)
