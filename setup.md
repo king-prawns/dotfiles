@@ -24,6 +24,7 @@ git submodule update --init --recursive
 ```
 - Making zsh default shell
 ```
+sudo -i
 sudo echo "$(which zsh)" >> /etc/shells
 chsh -s $(which zsh)
 ```
