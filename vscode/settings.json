@@ -1,8 +1,8 @@
 {
     "window.zoomLevel": 0,
-    "editor.fontSize": 17,
+    "editor.fontSize": 15,
     "files.associations": {
-      "*.vue": "vue"
+        "*.vue": "vue"
     },
     "breadcrumbs.enabled": true,
     "editor.renderWhitespace": "all",
@@ -14,7 +14,7 @@
     "editor.formatOnSave": false,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorCustomizations": {
-      "[Default Dark+]": {
+        "[Default Dark+]": {
         "activityBarBadge.background": "#FF4081",
         "editorIndentGuide.activeBackground": "#FF4081",
         "list.activeSelectionForeground": "#FF4081",
@@ -35,46 +35,46 @@
         "activityBarBadge.foreground": "#ffffff",
         "statusBar.background": "#FFFFFF10",
         "titleBar.activeBackground": "#FFFFFF10",
-      }
+        }
     },
     "terminal.integrated.fontSize": 14,
     "editor.tokenColorCustomizations": {
-      "[Default Dark+]": {
+        "[Default Dark+]": {
         "textMateRules": [
-          {
+            {
             "scope": [
-              "comment",
-              "punctuation.definition.comment"
+                "comment",
+                "punctuation.definition.comment"
             ],
             "settings": {
             }
-          },
-          {
+            },
+            {
             "scope": [
-              "comment",
-              "comment.block",
-              "comment.line",
-              "storage.type",
-              "storage.modifier",
-              "entity.other.attribute-name",
+                "comment",
+                "comment.block",
+                "comment.line",
+                "storage.type",
+                "storage.modifier",
+                "entity.other.attribute-name",
             ],
             "settings": {
-              "fontStyle": "italic"
+                "fontStyle": "italic"
             }
-          },
-          {
+            },
+            {
             "scope": [
-              "comment.block.documentation",
-              "storage.type.function.arrow",
-              "storage.type.generic",
-              "entity.other.attribute-name.class"
+                "comment.block.documentation",
+                "storage.type.function.arrow",
+                "storage.type.generic",
+                "entity.other.attribute-name.class"
             ],
             "settings": {
-              "fontStyle": ""
+                "fontStyle": ""
             }
-          }
+            }
         ]
-      }
+        }
     },
     "javascript.validate.enable": false,
     "flow.runOnEdit": false,
@@ -83,24 +83,23 @@
     "[javascript]": {},
     "gitlens.keymap": "chorded",
     "gitlens.advanced.messages": {
-      "suppressCommitHasNoPreviousCommitWarning": false,
-      "suppressCommitNotFoundWarning": true,
-      "suppressFileNotUnderSourceControlWarning": false,
-      "suppressGitVersionWarning": false,
-      "suppressLineUncommittedWarning": false,
-      "suppressNoRepositoryWarning": false,
-      "suppressResultsExplorerNotice": false,
-      "suppressShowKeyBindingsNotice": true
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": true,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
     },
     "workbench.sideBar.location": "left",
     "workbench.settings.editor": "json",
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.fixAll.tslint": true
+        "source.fixAll.eslint": true,
+        "source.fixAll.tslint": true
     },
     "diffEditor.renderSideBySide": false,
     "javascript.updateImportsOnFileMove.enabled": "never",
     "typescript.updateImportsOnFileMove.enabled": "never",
     "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.iconTheme": "material-icon-theme"
-  }
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "explorer.confirmDelete": false
+}
