@@ -41,3 +41,7 @@ chsh -s $(which zsh)
 - [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [trailer](http://ptsochantaris.github.io/trailer/)
+- if "zsh compinit: insecure directories" error occurs:
+```
+sudo chmod -R 755 /usr/local/share/zsh
+```
