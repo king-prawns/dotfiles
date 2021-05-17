@@ -10,6 +10,7 @@
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
+- update `Toggle Sidebar Visibility` (cmd+1) and `Toggle Terminal` (cmd+2) keyboard shortcuy
 - copy the following files to ~/
   - .vim
   - .zshrc
