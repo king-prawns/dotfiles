@@ -25,8 +25,6 @@ chsh -s $(which zsh)
 ```
   prompt_segment blue $CURRENT_FG ' %20<...<%~%<< '
 ```
-- [typescript-language-server](https://github.com/theia-ide/typescript-language-server)
-- [spectacle](https://www.spectacleapp.com/) and disable it for iterm2
 - [nvm](https://github.com/creationix/nvm)
 - [git](https://git-scm.com/)
 - [VSCode](https://code.visualstudio.com/) and set `redo` key (cmd+y)
