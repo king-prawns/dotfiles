@@ -35,7 +35,6 @@ chsh -s $(which zsh)
 - [disable alert sound Iterm](http://codingshower.com/how-to-disable-mac-os-annoying-beep-alert-bell-sound-in-terminal-and-iterm2/)
 - [yarn](https://yarnpkg.com/lang/en/docs/install/)
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
-- [trailer](http://ptsochantaris.github.io/trailer/)
 
 ### Troubleshooting
 - `zsh compinit: insecure directories`
