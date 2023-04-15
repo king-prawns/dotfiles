@@ -1,106 +1,108 @@
 {
-    "window.zoomLevel": 0,
-    "editor.fontSize": 15,
-    "files.associations": {
-        "*.vue": "vue"
-    },
-    "breadcrumbs.enabled": true,
-    "editor.renderWhitespace": "all",
-    "editor.fontFamily": "'Fira Code iScript', Consolas",
-    "editor.fontLigatures": true,
-    "editor.lineHeight": 24,
-    "explorer.decorations.badges": false,
-    "editor.tabSize": 4,
-    "editor.formatOnSave": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorCustomizations": {
-        "[Default Dark+]": {
-        "activityBarBadge.background": "#FF4081",
-        "editorIndentGuide.activeBackground": "#FF4081",
-        "list.activeSelectionForeground": "#FF4081",
-        "list.inactiveSelectionForeground": "#FF4081",
-        "list.inactiveSelectionBackground": "#FFFFFF10",
-        "list.highlightForeground": "#FF4081",
-        "scrollbarSlider.activeBackground": "#FF408150",
-        "editorSuggestWidget.highlightForeground": "#FF4081",
-        "textLink.foreground": "#FF4081",
-        "progressBar.background": "#FF4081",
-        "pickerGroup.foreground": "#FF4081",
-        "tab.activeBorder": "#FF4081",
-        "notificationLink.foreground": "#FF4081",
-        "activityBar.activeBackground": "#FFFFFF10",
-        "activityBar.background": "#FFFFFF10",
-        "activityBar.foreground": "#ffffff",
-        "activityBar.inactiveForeground": "#ffffff",
-        "activityBarBadge.foreground": "#ffffff",
-        "statusBar.background": "#FFFFFF10",
-        "titleBar.activeBackground": "#FFFFFF10",
+  "editor.fontSize": 15,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.fontFamily": "'Fira Code iScript', Consolas",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "explorer.decorations.badges": false,
+  "editor.tabSize": 4,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      "activityBarBadge.background": "#FF4081",
+      "editorIndentGuide.activeBackground": "#FF4081",
+      "list.activeSelectionForeground": "#FF4081",
+      "list.inactiveSelectionForeground": "#FF4081",
+      "list.inactiveSelectionBackground": "#FFFFFF10",
+      "list.highlightForeground": "#FF4081",
+      "scrollbarSlider.activeBackground": "#FF408150",
+      "editorSuggestWidget.highlightForeground": "#FF4081",
+      "textLink.foreground": "#FF4081",
+      "progressBar.background": "#FF4081",
+      "pickerGroup.foreground": "#FF4081",
+      "tab.activeBorder": "#FF4081",
+      "notificationLink.foreground": "#FF4081",
+      "activityBar.activeBackground": "#FFFFFF10",
+      "activityBar.background": "#FFFFFF10",
+      "activityBar.foreground": "#ffffff",
+      "activityBar.inactiveForeground": "#ffffff",
+      "activityBarBadge.foreground": "#ffffff",
+      "statusBar.background": "#FFFFFF10",
+      "titleBar.activeBackground": "#FFFFFF10"
+    }
+  },
+  "terminal.integrated.fontSize": 14,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.tokenColorCustomizations": {
+    "[Default Dark+]": {
+      "textMateRules": [
+        {
+          "scope": ["comment", "punctuation.definition.comment"],
+          "settings": {}
+        },
+        {
+          "scope": [
+            "comment",
+            "comment.block",
+            "comment.line",
+            "storage.type",
+            "storage.modifier",
+            "entity.other.attribute-name"
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": [
+            "comment.block.documentation",
+            "storage.type.function.arrow",
+            "storage.type.generic",
+            "entity.other.attribute-name.class"
+          ],
+          "settings": {
+            "fontStyle": ""
+          }
         }
-    },
-    "terminal.integrated.fontSize": 14,
-    "editor.tokenColorCustomizations": {
-        "[Default Dark+]": {
-        "textMateRules": [
-            {
-            "scope": [
-                "comment",
-                "punctuation.definition.comment"
-            ],
-            "settings": {
-            }
-            },
-            {
-            "scope": [
-                "comment",
-                "comment.block",
-                "comment.line",
-                "storage.type",
-                "storage.modifier",
-                "entity.other.attribute-name",
-            ],
-            "settings": {
-                "fontStyle": "italic"
-            }
-            },
-            {
-            "scope": [
-                "comment.block.documentation",
-                "storage.type.function.arrow",
-                "storage.type.generic",
-                "entity.other.attribute-name.class"
-            ],
-            "settings": {
-                "fontStyle": ""
-            }
-            }
-        ]
-        }
-    },
-    "javascript.validate.enable": false,
-    "flow.runOnEdit": false,
-    "editor.minimap.enabled": false,
-    "editor.renderControlCharacters": false,
-    "editor.bracketPairColorization.enabled": true,
-    "[javascript]": {},
-    "gitlens.keymap": "chorded",
-    "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": true,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-    },
-    "workbench.sideBar.location": "left",
-    "workbench.settings.editor": "json",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll.tslint": true
-    },
-    "diffEditor.renderSideBySide": false,
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "typescript.updateImportsOnFileMove.enabled": "never",
-    "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.iconTheme": "eq-material-theme-icons",
-    "explorer.confirmDelete": false
+      ]
+    }
+  },
+  "javascript.validate.enable": false,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": true,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false
+  },
+  "workbench.sideBar.location": "left",
+  "workbench.settings.editor": "json",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true
+  },
+  "editor.hover.enabled": true,
+  "diffEditor.renderSideBySide": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.inlineSuggest.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "extensions.ignoreRecommendations": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1
 }
