@@ -10,7 +10,6 @@
 - [antigen package manager](https://github.com/zsh-users/antigen)
 - [iterm 2](https://www.iterm2.com/)
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
-- vscode: update `Toggle Sidebar Visibility` (cmd+1) and `Toggle Terminal` (cmd+2) keyboard shortcuy
 - copy the following files to ~/
   - .zshrc
   - .hushlogin
@@ -29,6 +28,7 @@ chsh -s $(which zsh)
 - [git](https://git-scm.com/)
 - [VSCode](https://code.visualstudio.com/) and set `redo` key (cmd+y)
 - [VSCode from command line](https://stackoverflow.com/questions/44269510/how-to-run-visual-studio-code-from-the-command-line)
+- VSCode: update `Toggle Sidebar Visibility` (cmd+1) and `Toggle Terminal` (cmd+2) keyboard shortcuy
 - [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 - set FiraCode in Iterm preferences
