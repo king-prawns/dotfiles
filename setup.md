@@ -15,9 +15,7 @@
   - .hushlogin
 - Making zsh default shell
 ```
-sudo -i
-sudo echo "$(which zsh)" >> /etc/shells
-chsh -s $(which zsh)
+sudo chsh -s $(which zsh)
 ```
 - restart terminal
 - update `prompt_dir()` inside `.antigen/bundles/robbyrussell/oh-my-zsh/themes/agnoster.zsh-theme.antigen-compat` file with:
