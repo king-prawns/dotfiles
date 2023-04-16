@@ -22,7 +22,7 @@
 - make zsh default shell: `sudo chsh -s $(which zsh)`
 - restart terminal
 
-### Nvm
+### nvm
 - [nvm](https://github.com/creationix/nvm)
 - nvm use/install
 - npm install --global fkill-cli
