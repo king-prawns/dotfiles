@@ -1,6 +1,7 @@
 ## Installations
 
-- [homebrew](https://brew.sh/index_it.html)
+### Homebrew
+- [download](https://brew.sh/index_it.html)
 - brew install zsh
 - brew install fortune
 - brew install cloc
@@ -13,11 +14,15 @@
 ```
   prompt_segment blue $CURRENT_FG ' %20<...<%~%<< '
 ```
+
+### Terminal
 - copy the following files to ~/
   - .zshrc
   - .hushlogin
 - make zsh default shell: `sudo chsh -s $(which zsh)`
 - restart terminal
+
+### Nvm
 - [nvm](https://github.com/creationix/nvm)
 - nvm use/install
 - npm install --global fkill-cli
