@@ -23,7 +23,7 @@
 - restart terminal
 
 ### nvm
-- [nvm](https://github.com/creationix/nvm)
+- [download](https://github.com/creationix/nvm)
 - nvm use/install
 - npm install --global fkill-cli
 
