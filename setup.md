@@ -44,6 +44,7 @@
 - settings > Appareance > disable Dim background windows
 - settings > Profiles > terminal > Silence bell
 - settings > Profiles > text > Font Fira Code
+- settings > Profiles > text > anti-aliased
 - [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
 
 ### Troubleshooting
