@@ -1,0 +1,6 @@
+[user]
+	name = user-name
+	email = org-email
+	
+[core]
+	sshCommand = "ssh -i ~/.ssh/file_name_org"

@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = user-name
+	email = user-email
+
+[core]
+  sshCommand = "ssh -i ~/.ssh/file_name"
+
+[includeIf "hasconfig:remote.*.url:git@github.com:ORG/**"]
+	path = ~/.gitconfig_org
+
+[includeIf "hasconfig:remote.*.url:*ORG/**"]
+	path = ~/.gitconfig_org
