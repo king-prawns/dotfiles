@@ -28,7 +28,7 @@
 - npm install --global fkill-cli
 
 ### VSCode
-- [download]([https://www.iterm2.com/](https://code.visualstudio.com/)
+- [download](https://code.visualstudio.com/)
 - settings > Keyboard Shortcuts
 - set `redo` key: cmd+y
 - set `Toggle Sidebar Visibility`: cmd+1
