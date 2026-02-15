@@ -1,7 +1,7 @@
 ## Installations
 
 ### Homebrew
-- [download](https://brew.sh/index_it.html)
+- [download](https://brew.sh)
 - brew install zsh
 - brew install fortune
 - brew install cloc
