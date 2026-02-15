@@ -7,10 +7,6 @@
 - brew install yarn
 - brew install git
 - [antigen package manager](https://github.com/zsh-users/antigen)
-- update `prompt_dir()` inside `.antigen/bundles/robbyrussell/oh-my-zsh/themes/agnoster.zsh-theme.antigen-compat` file with:
-```
-  prompt_segment blue $CURRENT_FG ' %20<...<%~%<< '
-```
 
 ### Terminal
 - copy the following files to ~/
