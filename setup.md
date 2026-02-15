@@ -37,7 +37,7 @@
 
 ### nvm
 - [download](https://github.com/creationix/nvm)
-- nvm use/install
+- nvm install XY (XY = node version)
 - npm install --global fkill-cli
 
 ### Troubleshooting
