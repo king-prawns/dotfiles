@@ -12,6 +12,14 @@
 - [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 
+### VSCode
+- [download](https://code.visualstudio.com/)
+- settings > Keyboard Shortcuts
+- set `redo` key: cmd+y
+- set `Toggle Sidebar Visibility`: cmd+1
+- set `Toggle Terminal`: cmd+2
+- cmd+shift+p > Install 'code' command in PATH
+
 ### ITerm2
 - [download](https://www.iterm2.com/)
 - settings > Appareance > dimming > disable: Dim inactive spit panes & Dim background widnows
@@ -31,14 +39,6 @@
 - [download](https://github.com/creationix/nvm)
 - nvm use/install
 - npm install --global fkill-cli
-
-### VSCode
-- [download](https://code.visualstudio.com/)
-- settings > Keyboard Shortcuts
-- set `redo` key: cmd+y
-- set `Toggle Sidebar Visibility`: cmd+1
-- set `Toggle Terminal`: cmd+2
-- cmd+shift+p > Install 'code' command in PATH
 
 ### Troubleshooting
 - `zsh compinit: insecure directories`
