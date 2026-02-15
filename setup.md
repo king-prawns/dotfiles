@@ -3,10 +3,7 @@
 ### Homebrew
 - [download](https://brew.sh/)
 - brew install zsh
-- brew install fortune
 - brew install cloc
-- brew install watchman
-- brew install vim
 - brew install yarn
 - brew install git
 - [antigen package manager](https://github.com/zsh-users/antigen)
