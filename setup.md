@@ -8,6 +8,14 @@
 - brew install git
 - [antigen package manager](https://github.com/zsh-users/antigen)
 
+### ITerm2
+- [download](https://www.iterm2.com/)
+- settings > Appareance > disable Dim background windows
+- settings > Profiles > terminal > Silence bell
+- settings > Profiles > text > Font Fira Code
+- settings > Profiles > text > anti-aliased
+- [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
+
 ### Terminal
 - copy the following files to ~/
   - .zshrc
@@ -31,14 +39,6 @@
 ### Font
 - [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
 - [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
-
-### ITerm2
-- [download](https://www.iterm2.com/)
-- settings > Appareance > disable Dim background windows
-- settings > Profiles > terminal > Silence bell
-- settings > Profiles > text > Font Fira Code
-- settings > Profiles > text > anti-aliased
-- [set shortcuts](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) (second comment)
 
 ### Troubleshooting
 - `zsh compinit: insecure directories`
