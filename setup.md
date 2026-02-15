@@ -8,9 +8,13 @@
 - brew install git
 - [antigen package manager](https://github.com/zsh-users/antigen)
 
+### Font
+- [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
+- [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
+
 ### ITerm2
 - [download](https://www.iterm2.com/)
-- settings > Appareance > disable Dim background windows
+- settings > Appareance > dimming > disable: Dim inactive spit panes & Dim background widnows
 - settings > Profiles > terminal > Silence bell
 - settings > Profiles > text > Font Fira Code
 - settings > Profiles > text > anti-aliased
@@ -35,10 +39,6 @@
 - set `Toggle Sidebar Visibility`: cmd+1
 - set `Toggle Terminal`: cmd+2
 - cmd+shift+p > Install 'code' command in PATH
-
-### Font
-- [Font: FiraCode](https://github.com/tonsky/FiraCode) (ttf)
-- [Font: FiraCode iScript](https://github.com/kencrocken/FiraCodeiScript)
 
 ### Troubleshooting
 - `zsh compinit: insecure directories`
