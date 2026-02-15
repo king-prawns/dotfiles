@@ -6,7 +6,6 @@ antigen use oh-my-zsh
 antigen bundle git
 antigen bundle node
 antigen bundle sudo
-antigen bundle chucknorris
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle zsh-users/zsh-history-substring-search
 antigen bundle zsh-users/zsh-autosuggestions
